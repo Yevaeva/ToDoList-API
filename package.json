@@ -2,7 +2,7 @@
   "name": "todo-list-api",
   "version": "0.0.1",
   "description": "Todo List API",
-  "author": "Masis Karapetyan (Sirius MK)",
+  "author": "Yeva Terteryan",
   "main": "server.js",
   "private": true,
   "license": "ISC",
